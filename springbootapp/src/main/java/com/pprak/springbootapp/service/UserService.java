@@ -1,6 +1,6 @@
-package web.service;
+package com.pprak.springbootapp.service;
 
-import web.models.User;
+import com.pprak.springbootapp.models.User;
 
 import java.util.List;
 
