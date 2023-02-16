@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8317fa77-8e72-451a-90cc-e6cc539a91ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ByteWork/ByteWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnExceptions/LearnExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MailService/MailService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MailServiceTest/MailServiceTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serialization/Serialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_course/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Streams/Streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/Test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcourse/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LJfnV3euslYGcTUuNmEmAS5UTw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8317fa77-8e72-451a-90cc-e6cc539a91ca" name="Changes" comment="" />
+      <created>1675594274643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675594274643</updated>
+    </task>
+    <servers />
+  </component>
+</project>
